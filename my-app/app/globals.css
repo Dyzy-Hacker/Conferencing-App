@@ -12,6 +12,26 @@
     }
   }
 
+  .cl-providerIcon__github {
+    filter: invert(1);
+  }
+
+  .cl-internal-1yejcov {
+    color: white;
+  }
+
+  .cl-internal-uyu30o {
+    filter: invert(1);
+  }
+
+  .cl-internal-1ui5z3q {
+    color: white;
+  }
+
+  .cl-internal-1paiido {
+    color: white;
+  }
+
   @layer base {
     :root {
       --background: 0 0% 100%;
