@@ -111,5 +111,3 @@ const CallList = ({ type }: { type: "ended" | "upcoming" | "recordings" }) => {
 };
 
 export default CallList;
-
-// 3:34:13 !!!
