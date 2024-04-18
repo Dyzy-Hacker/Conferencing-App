@@ -54,7 +54,7 @@ const CallList = ({ type }: { type: "ended" | "upcoming" | "recordings" }) => {
             key={(meeting as Call).id}
             icon={
               type === "ended"
-                ? "/icons.previous.svg"
+                ? "/icons/previous.svg"
                 : type === "upcoming"
                 ? "/icons/upcoming.svg"
                 : "/icons/recordings.svg"
@@ -83,7 +83,7 @@ const CallList = ({ type }: { type: "ended" | "upcoming" | "recordings" }) => {
           />
         ))
       ) : (
-        <h1>{noCallsMessage}</h1>
+        <h1 className="text-2xl font-bold text-white">{noCallsMessage}</h1>
       )}
     </div>
   );
