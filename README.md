@@ -70,7 +70,7 @@ We are deploying on Vercel you can read Vercel docs
 https://vercel.com/docs/deployments/git
 
 
-## Screenshot of Web Site
+## Screenshot of Website
 
 <img width="1800" alt="Screenshot 2024-04-19 at 12 44 41" src="https://github.com/Dyzy-Hacker/Conferencing-App/assets/69049191/39a5901d-1d4b-47f3-a3b6-956f8c461456">
 
